@@ -118,6 +118,28 @@
 
 # 自我评价
 
+个人特点
++ 担任全英文班班长，经常帮助留学生处理问题，有较好的英文日常对话能力，做事认真负责
++ 课本均为黑皮书系列英文原著，有较好的英文文献阅读能力
++ 善于运用ChatGPT加成的New Bing以及Github Copilot解决问题
+
+编程特点
++ 有良好的Coding风格与规范，有良好的面向对象程序设计思想，逻辑思维能力强
++ 有丰富的社区代码提交经验，在Github上有400+次contribution
+
+语言
++ 有丰富的Python开发经验，Python爬虫经验，熟悉常用库如PyMySQL，Selenium，Requests，BeautifulSoup4，Pandas，JSON等
++ 熟悉HTML+CSS+JavaScript并有相关项目
+
+工具
++ 熟练掌握Linux常用命令，有Linux服务器部署经验
++ 熟练使用Git工具以及Github，有多次多人协作完成项目经验
++ 熟练使用Docker工具，了解Image、Container等概念
+
+技能点
++ 熟练掌握基本的数据结构如：数组、链表、堆、栈、队列、红黑树、哈希表、图等
++ 熟练掌握基本的算法如：排序、搜索、图算法、动态规划、Huffman Coding、KMP等
+
 # 资格证书
 
 + CET-4 571
