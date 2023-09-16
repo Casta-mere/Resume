@@ -28,9 +28,41 @@
 
 ## 基于深度学习的商品识别系统
 
+项目介绍：
++ 针对在无人货架中的应用，对常见的20余种商品，拍摄了共5422张不同角度，不同组合的图片，以及对应的标注文件作为数据集进行训练，最终实现对商品的识别
+
+主要职责：
++ 使用Python语言，<b>PyTorch</b>框架，<b>YOLOv5</b>算法。训练过程中对训练数据集使用了Mosaic拼接、图片覆盖混入、随机翻转等数据增强方式。通过200轮的迭代，最终使<b>mAP 0.5:0.95</b>达到<b>0.82</b>以上
+
+<!-- 使用Python语言，\textbf{PyTorch}框架，\textbf{YOLOv5}算法。训练过程中对训练数据集使用了Mosaic拼接、图片覆盖混入、随机翻转等数据增强方式。通过200轮的迭代，最终使\textbf{mAP 0.5:0.95}达到\textbf{0.82}以上 -->
+
+项目收获：
++ 项目最终部署至RKNN边缘智能计算平台以及硬件设备中。项目获得中国大学生计算机设计大赛<b>国家三等奖</b>
+
+<!-- 项目最终部署至RKNN边缘智能计算平台以及硬件设备中。项目获得中国大学生计算机设计大赛\textbf{国家级三等奖} -->
+
 ## 智能知识侦察助手
 
+项目介绍：
++ 爬取豆瓣图书Top200的书籍，编写对图书信息侦查的问卷生成程序，并且以网页形式呈现出来，实现问卷填写，数据分析，可视化展示等。
+
+主要职责：
++ 本人主要负责<b>后端开发</b>与<b>服务器部署</b>。后端使用Python语言，应用面向对象程序设计的思想抽象出书籍、问题、数据库连接、控制等多个类进行操作。并最终部署至Linux服务器。网页链接：<http://castamerego.com>
+
+<!-- 本人主要负责\textbf{后端开发}与\textbf{服务器部署}。后端使用Python语言，应用面向对象程序设计的思想抽象出书籍、问题、数据库连接、控制等多个类进行操作。最终部署至Linux服务器。网页链接：\href{http://castamerego.com/}{\textbf{\emph{castamerego.com}}} -->
+
+项目收获：
++ 三人小组使用Github协作，拥有<b>超过100条</b>commit记录，并有完整的过程记录，具体内容可访问<https://github.com/Castamere/Read-Book>查看。过程中培养了良好的多人协作Coding能力
+
+<!-- 三人小组使用Github，拥有\textbf{超过100条}commit记录，并有完整的过程记录，具体内容可访问\href{https://github.com/Castamere/Read-Book}{\textbf{\emph{github.com/Castamere/Read-Book}}}查看 -->
+
 ## 大众点评爬虫
+
++ 数据爬取：掌握Html/CSS/Javascript，爬取数据使用Selenium， Requests库。针对大众点评的css-svg映射反爬取进行逆向、使用代理ip防止被封
+
++ 数据清洗：使用BeautifulSoup4，re库。使用id，class，xpath等多种方式对元素定位
+
++ 数据储存：使用Pandas库储存至Excel表格，使用PyMysql库储存至数据库
 
 ## QBomb
 
